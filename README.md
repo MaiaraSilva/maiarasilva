@@ -16,8 +16,6 @@ Sou formada no curso técnico em desenvolvimento de sistemas pela ETEC - Comenda
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSilva&layout=compact)"/>
 </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaiaraSilva&show_icons=true&locale=en&layout=compact" alt="maiarasilva" /></p>
-
 ## Ferramentas
 <div style="display: inline_block"><br>
 	<img align="center" alt="Maiara-Csharp" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
