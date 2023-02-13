@@ -10,10 +10,10 @@ Sou formada no curso técnico em desenvolvimento de sistemas pela ETEC - Comenda
 * 📋 Outros conhecimentos: C#, HTML, CSS, .Net.
 * 📖 No tempo livre gosto de jogar, ler e pintar.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/MaiaraSilva/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaiaraSilva&show_icons=true&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/MaiaraSilva/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSilva&layout=compact)"/>
 </a>
 
