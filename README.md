@@ -3,10 +3,9 @@
 Sou formada no curso técnico em desenvolvimento de sistemas pela ETEC - Comendador João Rays, atualmente sou graduanda do segundo período de Ciência de Dados pela Univesp e atuo como suporte técnico na Uppercase.
 
 ## Informações detalhadas
-* 👩🏽‍💻 Nome: Maiara Silva.
 * ❤️ Idade: 18.
 * 🏠 Moro em: Igaraçu do Tietê - São Paulo, Brasil.
-* ✨ Estudando python, SQL e análises.
+* ✨ Estudando análise e ciência de dados com python e SQL.
 * 📋 Outros conhecimentos: C#, HTML, CSS, .Net.
 * 📖 No tempo livre gosto de jogar, ler e pintar.
 
@@ -16,6 +15,8 @@ Sou formada no curso técnico em desenvolvimento de sistemas pela ETEC - Comenda
 <a href="https://github.com/MaiaraSilva/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSilva&layout=compact)"/>
 </a>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaiaraSilva&show_icons=true&locale=en&layout=compact" alt="maiarasilva" /></p>
 
 ## Ferramentas
 <div style="display: inline_block"><br>
