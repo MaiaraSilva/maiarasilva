@@ -9,13 +9,6 @@ Sou formada no curso técnico em desenvolvimento de sistemas pela ETEC - Comenda
 * 📋 Outros conhecimentos: C#, HTML, CSS, .Net.
 * 📖 No tempo livre gosto de jogar, ler e pintar.
 
-<a href="https://github.com/MaiaraSilva/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaiaraSilva&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/MaiaraSilva/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSilva&layout=compact)"/>
-</a>
-
 ## Ferramentas
 <div style="display: inline_block"><br>
 	<img align="center" alt="Maiara-Csharp" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
