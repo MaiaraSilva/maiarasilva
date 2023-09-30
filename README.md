@@ -1,28 +1,27 @@
-# Olá, eu sou a Maiara 👋
+# Olá, eu sou a Maiara 👋 
+
 ## Sobre mim
-Sou formada no curso técnico em desenvolvimento de sistemas pela ETEC - Comendador João Rays, atualmente sou graduanda do segundo período de Ciência de Dados pela Univesp e atuo como suporte técnico na Uppercase.
+Sou formada no curso técnico em desenvolvimento de sistemas pela ETEC - Comendador João Rays, atualmente sou graduanda do terceiro período de Ciência de Dados pela Univesp e atuo como suporte técnico na Uppercase.
 
-## Informações detalhadas
-* ❤️ Idade: 18.
-* 🏠 Moro em: Igaraçu do Tietê - São Paulo, Brasil.
-* ✨ Estudando análise e ciência de dados com python e SQL.
-* 📋 Outros conhecimentos: C#, HTML, CSS, .Net.
-* 📖 No tempo livre gosto de jogar, ler e pintar.
+# 💻  Main Skills
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## Ferramentas
-<div style="display: inline_block"><br>
-	<img align="center" alt="Maiara-Csharp" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Maiara-CSS" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Maiara-NET" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Maiara-HTML" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Maiara-Jupyter" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Maiara-SQL" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Maiara-SQLSERVER" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Maiara-Python" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Maiara-Visual" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Maiara-VisualCode" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Maiara-Anaconda" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
-</div>
+</br>
+
+# 🚀 Estudando
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+</br>
+
+# 📊 GitHub Stats:
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSilva&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api?username=MaiaraSilva&theme=blue-green)
 
 ## Redes Sociais
 
