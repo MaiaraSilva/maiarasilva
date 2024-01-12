@@ -1,7 +1,7 @@
 # Olá, eu sou a Maiara 👋 
 
 ## Sobre mim
-Sou formada no curso técnico em desenvolvimento de sistemas pela ETEC - Comendador João Rays, atualmente sou graduanda do terceiro período de Ciência de Dados pela Univesp e atuo como suporte técnico na Uppercase.
+Sou formada no curso técnico em desenvolvimento de sistemas pela ETEC - Comendador João Rays, atualmente sou graduanda do quarto período de Tecnologia da Informação pela Univesp e atuo como suporte técnico na Uppercase.
 
 # 💻  Main Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
